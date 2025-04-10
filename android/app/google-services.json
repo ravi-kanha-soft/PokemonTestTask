@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "104513781610",
+    "project_id": "pokemon-f3408",
+    "storage_bucket": "pokemon-f3408.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104513781610:android:138deeb13e3eb07ac8af13",
+        "android_client_info": {
+          "package_name": "com.pokemon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104513781610-0ggvt8upqijjcbku6r6na9qtlhl0up70.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pokemon",
+            "certificate_hash": "98e291a9c07aeb6df8dafb3c021b09529d971ce7"
+          }
+        },
+        {
+          "client_id": "104513781610-pdiluku12qsr5e35hqtshvqu57urr9f5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB93-4Oarhs7KcnKujMM6xgfkDObHEMLrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104513781610-pdiluku12qsr5e35hqtshvqu57urr9f5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
