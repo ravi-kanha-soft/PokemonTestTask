@@ -3,6 +3,10 @@
 This is a React Native app using the React Native CLI (not Expo). Follow the instructions below to set up and run the app on Android and iOS.
 
 ---
+## 🚀 Loom Videos for Android & iOS
+
+- [🔗 Android Loom Video](https://www.loom.com/share/56df58dfeb204365b127ac51dcb09084?sid=3eff6199-9aa3-4d0d-b128-d27b77b72c79)
+- [🔗 iOS Loom Video](https://www.loom.com/share/3d1cc5bd783f4a369f4fc59f4e01437d?sid=60efdf27-5f56-4d03-9a4b-1cfbe303283e)
 
 ## 🚀 Getting Started
 
